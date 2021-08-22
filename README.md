@@ -1,5 +1,9 @@
 # flight-plan-assistant
 
+## prepare
+- https://zhuanlan.zhihu.com/p/335225253
+- node > 12.X
+
 ## Project setup
 ```
 npm install
